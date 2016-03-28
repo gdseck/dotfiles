@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/gdseck/GitHub'
+let g:netrw_dirhist_2='/home/gdseck'
+let g:netrw_dirhist_3='/home/gdseck/Documents'
+let g:netrw_dirhist_4='/home/gdseck/Documents/Technologies'
+let g:netrw_dirhist_5='/home/gdseck/Documents/Technologies/AngularJS'
+let g:netrw_dirhist_6='/home/gdseck/Documents/Technologies/AngularJS/examples'
+let g:netrw_dirhist_7='/home/gdseck/Documents/Technologies/AngularJS/examples/invoice'
